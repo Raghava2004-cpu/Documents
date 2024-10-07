@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm RAGHAVA ASHOK</h1>
-<h3 align="center">A passionate Software developer from India</h3>
+<h3 align="center">A passionate engineer  from India</h3>
 <img align="right"alt="coding"width= "400"src="https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif" >
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=raghava2004-cpu&label=Profile%20views&color=0e75b6&style=flat" alt="raghava2004-cpu" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=raghava2004-cpu" alt="raghava2004-cpu" /></a> </p>
 
-- 🌱 I’m currently learning **python**
+- 🌱 I’m currently learning **Machine Learning ans DSA**
 
 - 📫 How to reach me **raghavaashok2004@gmail.com**
 
