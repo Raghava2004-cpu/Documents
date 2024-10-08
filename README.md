@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=raghava2004-cpu" alt="raghava2004-cpu" /></a> </p>
 
-- 🌱 I’m currently learning **Machine Learning ans DSA**
+- 🌱 I’m currently learning **Machine Learning and DSA**
 
 - 📫 How to reach me **raghavaashok2004@gmail.com**
 
